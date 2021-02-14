@@ -1,50 +1,25 @@
 # KIST HaptiCube Simulation version 2
 
-광운대학교 로봇학부 학술소모임 **'BARAM'** 20년도 후반기 Toy Project에 대한 소스코드입니다.  
+**2020 - 2021 KIST Internship** HaptiCube Simulation Versoin 2 에 대한 소스코드입니다.
+Realsense d435와 OpenGL을 활용하여 구현하였습니다.
 
 ## 개발 환경
 |OS|사용 언어|사용 IDE|
 |:---:|:---:|:---:|
-| | | |
+|Window 10| c++ | Visual Studio 2017 |
 
-## 프로젝트 개발 동기
+<p align="center"><img src="" width="500px"></p>  
+<p align="center"> Realsense D435를 통해 나온 모습 </p>  
 
--  
+<p align="center"><img src="" width="500px"></p>  
+<p align="center"> HaptiCube의 위치 파악 </p>  
 
-## 프로젝트 개요
-1.   
-2.  
-3.  
-4. 
-> - 
-> - 
+<p align="center"><img src="" width="500px"></p>  
+<p align="center"> Depth image aligned with Color image </p>  
 
-## System Architecture
-<p align="center"><img src=" " width="600px"></p>  
+<p align="center"><img src="" width="500px"></p>  
+<p align="center"> OpenGL Simulation picture1 </p>  
 
-
-### Code Overview  
-- 
-- 
-- 
-- 
-
-### Project scenario
-
-1. 
-2. 
-3. 
-4. 
-
-
-## 프로젝트 결과
-
-<p align="center"><img src=" " width="500px"></p>  
-<p align="center"> 사진1에 대한 설명 </p>  
-
-<p align="center"><img src=" " width="500px"></p>  
-<p align="center"> 사진2에 대한 설명 </p>  
-
-<p align="center"><img src=" " width="500px"></p>  
-<p align="center"> 사진3에 대한 설명 </p>  
+<p align="center"><img src="" width="500px"></p>  
+<p align="center"> OpenGL Simulation picture2 </p>  
 
