@@ -9,17 +9,17 @@ Realsense d435와 OpenGL을 활용하여 구현하였습니다.
 |Window 10| c++ | Visual Studio 2017 |
 
 <p align="center"><img src="" width="500px"></p>  
-<p align="center"> Realsense D435를 통해 나온 모습 </p>  
+<p align="center"> 1 </p>  
 
 <p align="center"><img src="" width="500px"></p>  
-<p align="center"> HaptiCube의 위치 파악 </p>  
+<p align="center"> 2 </p>  
 
 <p align="center"><img src="" width="500px"></p>  
-<p align="center"> Depth image aligned with Color image </p>  
+<p align="center"> 3 </p>  
 
 <p align="center"><img src="" width="500px"></p>  
-<p align="center"> OpenGL Simulation picture1 </p>  
+<p align="center"> 4 </p>  
 
 <p align="center"><img src="" width="500px"></p>  
-<p align="center"> OpenGL Simulation picture2 </p>  
+<p align="center"> 5 </p>  
 
