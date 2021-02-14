@@ -1,11 +1,11 @@
 # KIST HaptiCube Simulation version 1
 
-광운대학교 로봇학부 학술소모임 **'BARAM'** 20년도 후반기 Toy Project에 대한 소스코드입니다.  
+**2020 - 2021 KIST Internship** HaptiCube Simulation에 대한 소스코드입니다.  
 
 ## 개발 환경
 |OS|사용 언어|사용 IDE|
 |:---:|:---:|:---:|
-| | | |
+|Windows 10 | | |
 
 ## 프로젝트 개발 동기
 
